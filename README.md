@@ -1,6 +1,11 @@
-# Simple Tic-Tac-Toe React App
+# Simple Tic-Tac-Toe game with React.JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this simple project you can:
+- Play tic-tac-toe game,
+- See which player has won the game,
+- Store a game’s history as a game progresses,
+- Review a game’s history and see previous versions of a game’s board.
+
 
 ## Available Scripts
 
