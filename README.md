@@ -6,7 +6,7 @@ In this simple project you can:
 - Store a game’s history as a game progresses,
 - Review a game’s history and see previous versions of a game’s board.
 
-
+![alt-text](https://github.com/lirveaa/tic-tac-toe-reactjs/blob/master/screenshot-tictactoe.png)
 ## Available Scripts
 
 In the project directory, you can run:
